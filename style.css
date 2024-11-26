@@ -19,8 +19,12 @@ main {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+image {
+    float: right;
+    width:200px;
+    height:200px;
+}
 
-/* Styling for headings */
 h1 {
     font-size: 36px;
     color: #fff;
